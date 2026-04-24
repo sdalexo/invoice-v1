@@ -1,7 +1,8 @@
 import BtnLogin from "../components/buttons/ButtonLogin"
 import InputLoginText from "../components/inputs/InputLoginText"
 import '@styles/pages/Login.css'
-function Login(){
+
+ function Login(){
     return(
         <div className="page-login">
             <div className="container-login">
